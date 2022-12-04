@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haris
 - 👀 I’m interested in [DevOps](https://about.gitlab.com/topics/devops/) and CI/CD Pipeline security.
-- 🌱 I’m currently learning cryptography in TPM(Trusted Platfrom Module) & [golang](https://go.dev/).
+- 🌱 I’m currently learning [cryptography](https://wikiless.org/wiki/Cryptographic_hash_function?lang=en) in TPM(Trusted Platfrom Module) & [golang](https://go.dev/).
 - 💞️ I’m looking to collaborate on [Python](https://www.python.org/) & [golang](https://go.dev/) projects.
 - 📫 How to reach me ? (You are smart enough to figure that out...)
 
