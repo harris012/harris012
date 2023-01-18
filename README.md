@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Haris</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harris012&label=Profile%20views&color=0e75b6&style=flat" alt="harris012" /> </p>
 
-- 👀 I’m interested in [DevOps](https://about.gitlab.com/topics/devops/) and CI/CD Pipeline security.
+- 👀 I’m interested in [DevOps](https://about.gitlab.com/topics/devops/) and [CI/CD Pipeline](https://about.gitlab.com/topics/ci-cd/) security.
 - 🌱 I’m currently learning [cryptography](https://wikiless.org/wiki/Cryptographic_hash_function?lang=en) in [TPM (Trusted Platfrom Modul)](https://sourceforge.net/p/linux-ima/wiki/Home/) for remote verification & [golang](https://go.dev/).
 - 💞️ I’m looking to collaborate on [Python](https://www.python.org/) & [golang](https://go.dev/) projects.
 - 👨‍💻 Check out my Hobby projects, [Covid-19 data Visualisation](https://github.com/harris012/RKI_covid-19_data_grafana_nfluxdb), [Export Missing Images & timestamps metrics from harbor registry](https://github.com/harris012/harbor-exporter-python)
