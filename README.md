@@ -22,4 +22,11 @@
   <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harris012&show_icons=true&bg_color=DEG,2d2d2d,2d2d2d&title_color=Ffffff&text_color=Ffbb00&icon_color=Ffbb00" alt="harris012" /></p>
+<h2 align="center">My GitHub Stats</h2>
+
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harris012&count_private=true&show_icons=true&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd" alt="harris012">
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harris012&show_icons=true&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd&layout=compact&langs_count=6" alt="harris012">
+
+</div>
